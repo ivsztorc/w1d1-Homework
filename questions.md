@@ -28,6 +28,7 @@ array
 
   * `"Maroon" + 5`
    `"Maroon" * 5
+   test
 
   * `ture == flase`
   true == false
